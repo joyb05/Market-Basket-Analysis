@@ -1,5 +1,7 @@
 # Groceries dataset - Market-Basket-Analysis
 
+![istockphoto-1194709125-170667a](https://user-images.githubusercontent.com/70154122/175789490-635508e0-1e36-4dbd-8f7e-54a7a27c7474.jpg)
+
 ## About Dataset
 Association Rule Mining
 Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.
